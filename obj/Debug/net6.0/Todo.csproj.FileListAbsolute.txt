@@ -4,7 +4,6 @@ D:\Estudo C#\Todo\bin\Debug\net6.0\Todo.exe
 D:\Estudo C#\Todo\bin\Debug\net6.0\Todo.deps.json
 D:\Estudo C#\Todo\bin\Debug\net6.0\Todo.runtimeconfig.json
 D:\Estudo C#\Todo\bin\Debug\net6.0\Todo.dll
-D:\Estudo C#\Todo\bin\Debug\net6.0\ref\Todo.dll
 D:\Estudo C#\Todo\bin\Debug\net6.0\Todo.pdb
 D:\Estudo C#\Todo\bin\Debug\net6.0\Humanizer.dll
 D:\Estudo C#\Todo\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
@@ -47,3 +46,4 @@ D:\Estudo C#\Todo\obj\Debug\net6.0\Todo.dll
 D:\Estudo C#\Todo\obj\Debug\net6.0\ref\Todo.dll
 D:\Estudo C#\Todo\obj\Debug\net6.0\Todo.pdb
 D:\Estudo C#\Todo\obj\Debug\net6.0\Todo.genruntimeconfig.cache
+D:\Estudo C#\Todo\obj\Debug\net6.0\refint\Todo.dll
