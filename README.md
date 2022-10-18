@@ -2,7 +2,7 @@
 ## _Gerenciador de tarefas (to do)_
 
 Uma Rest Api simples para gerenciar _to do_,
-Desenvolvido em C#.
+desenvolvido em C#.
 
 ## _Tecnologias_
 
