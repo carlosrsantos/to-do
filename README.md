@@ -4,7 +4,7 @@
 Uma Rest Api simples para gerenciar _to do_,
 Desenvolvido em C#.
 
-## Tech
+## _Tecnologias_
 
 Foram usadas as seguintes tecnologias:
 
